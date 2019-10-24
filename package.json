@@ -1,0 +1,23 @@
+{
+  "name": "wordpress-assets",
+  "version": "1.0.3",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/w-jerome/WordPress-Assets.git"
+  },
+  "keywords": [
+    "wordpress",
+    "muplugins",
+    "mu-plugins",
+    "plugin",
+    "core",
+    "assets",
+  ],
+  "author": "Jérôme Wohlschlegel <jerome.wohlschlegel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/w-jerome/WordPress-Assets/issues"
+  },
+  "homepage": "https://github.com/w-jerome/WordPress-Assets#readme"
+}
