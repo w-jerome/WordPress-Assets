@@ -143,20 +143,6 @@ $wp_assets->enqueue_group(
 );
 ```
 
-### Methods
-
-```php
-// Register
-$wp_assets->register_css();
-$wp_assets->register_js();
-$wp_assets->register_group();
-
-// Enqueue
-$wp_assets->enqueue_css();
-$wp_assets->enqueue_js();
-$wp_assets->enqueue_group();
-```
-
 ### Asset CSS properties
 
 ```php
@@ -208,4 +194,18 @@ array(
     'version'      => null, // (optional) string|null|boolean
     'enqueue'      => true, // (optional) boolean
 );
+```
+
+### Methods
+
+```php
+// Register
+$wp_assets->register_css();
+$wp_assets->register_js();
+$wp_assets->register_group();
+
+// Enqueue
+$wp_assets->enqueue_css();
+$wp_assets->enqueue_js();
+$wp_assets->enqueue_group();
 ```
