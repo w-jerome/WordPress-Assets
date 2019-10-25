@@ -1,7 +1,7 @@
 {
   "name": "wordpress-assets",
-  "version": "1.0.3",
-  "description": "",
+  "version": "1.0.0",
+  "description": "WordPress Hook CSS and Javascript Helper",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/w-jerome/WordPress-Assets.git"
